@@ -45,7 +45,7 @@ describe('Carbon dating', () => {
 
   describe('functional requirements ', () => {
 
-    describe('passes simpliest check and determines correct tests', () => {
+    describe('passes simplest check and determines correct tests', () => {
 
       let isLogCalculated = false;
       try {
